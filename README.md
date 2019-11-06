@@ -102,9 +102,22 @@ to make the web faster, safer, and more open.
 
 See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
 
+Contract details:
+
+transaction hash:    0x1959b8f584fb8273a58682757119bc8c774b79f885683a748e67575785a9ebd6
+contract address:    0x037dc574803dA5F045D1a75E0EBE942c1680Fd38
+
+Clickable address: https://rinkeby.etherscan.io/address/0x037dc574803dA5F045D1a75E0EBE942c1680Fd38
+
+
+## UML diagrams
+
+The UML diagrams folder contains the UML diagrams for the supply chain.
+
 ## Acknowledgments
 
-* Solidity
-* Ganache-cli
-* Truffle
-* IPFS
+* Truffle v5.0.39 
+* Solidity v0.4.24
+* Node v10.16.3
+* Web3.js v1.2.1
+* IPFS is not used
